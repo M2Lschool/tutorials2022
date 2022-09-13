@@ -34,8 +34,8 @@ The sections marked as \[EXERCISE 📝\] contain cells with missing code that yo
 
 ### Useful links
 
-+ Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TBD)
-+ Solved Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TBD)
++ Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TBD](https://colab.research.google.com/github/m2lschool/tutorials2022/blob/master/2_nlp/NLP_tutorial.ipynb))
++ Solved Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TBD](https://colab.research.google.com/github/m2lschool/tutorials2022/blob/master/2_nlp/NLP_tutorial_solutions.ipynb))
 
 ### License
 
